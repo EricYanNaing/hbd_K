@@ -233,7 +233,7 @@ const BirthdayPage = ({ onNavigate }) => {
       <div className="absolute inset-0 flex flex-col items-center justify-center text-white z-40">
         <h1 className={`text-4xl md:text-6xl font-bold text-center mb-8 transition-all duration-2000 ${animationStarted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}>
           <span className="bg-gradient-to-r from-pink-300 to-purple-300 bg-clip-text text-transparent drop-shadow-lg">
-            Happy Birthday, Muqad as!
+            Happy Birthday, K!
           </span>
         </h1>
         
