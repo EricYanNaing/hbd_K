@@ -118,7 +118,6 @@ const FinalPage = ({ onNavigate }) => {
                 <div className="text-center text-pink-600 mb-4">
                   <h3 className="text-xl font-bold">HAPPY</h3>
                   <h2 className="text-2xl font-bold">BIRTHDAY</h2>
-                  <h3 className="text-xl font-bold">to K!</h3>
                 </div>
                 
                 {/* Personal message */}
@@ -127,11 +126,12 @@ const FinalPage = ({ onNavigate }) => {
                     className="bg-pink-50/80 border border-pink-200 rounded-lg p-3 text-xs text-gray-700 space-y-2 shadow-inner"
                     style={{ lineHeight: '1.5', fontSize: '0.9rem' }}
                   >
-                    <p className="font-semibold">Hey, K,</p>
+                    <p className="font-semibold">Hey, K!</p>
                     <p>
                       Just wanted to say happy birthday — hope today brings you everything that makes you smile (and maybe a little bit of cake too).
                       You deserve to be celebrated in the best way, because you make the world better just by being in it.
                     </p>
+                    <br/>
                     <p>
                       Glad I get to know you — and hoping this is just the beginning of even more great memories.
                     </p>
