@@ -123,11 +123,11 @@ const FinalPage = ({ onNavigate }) => {
                 {/* Personal message */}
                 <div className="relative flex-1">
                   <div
-                    className="bg-pink-50/80 border border-pink-200 rounded-lg p-3 text-xs text-gray-700 space-y-2 shadow-inner"
+                    className="bg-pink-50/80 border border-pink-200 rounded-lg p-3 text-xs text-gray-700 space-y-2 shadow-inner pacifico"
                     style={{ lineHeight: '1.5', fontSize: '0.9rem' }}
                   >
                     <p className="font-semibold">Hey, K!</p>
-                    <p>
+                    <p className="pacifico">
                       Just wanted to say happy birthday — hope today brings you everything that makes you smile (and maybe a little bit of cake too).
                       You deserve to be celebrated in the best way, because you make the world better just by being in it.
                     </p>
