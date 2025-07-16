@@ -79,6 +79,9 @@ const FinalPage = ({ onNavigate }) => {
                   <h2 className="text-3xl font-bold">BIRTHDAY</h2>
                   <h3 className="text-2xl font-bold">to K!</h3>
                 </div>
+
+                <h3 className="text-sm font-bold pacifico text-pink-600">click to flip</h3>
+
                 
                 {/* Decorative elements */}
                 <div className="flex justify-center items-center mt-8">
@@ -126,7 +129,7 @@ const FinalPage = ({ onNavigate }) => {
                     className="bg-pink-50/80 border border-pink-200 rounded-lg p-3 text-xs text-gray-700 space-y-2 shadow-inner pacifico"
                     style={{ lineHeight: '1.5', fontSize: '0.9rem' }}
                   >
-                    <p className="font-semibold">Hey, K!</p>
+                    <p className="font-semibold">Hey, Katii!</p>
                     <p className="pacifico">
                       Just wanted to say happy birthday — hope today brings you everything that makes you smile (and maybe a little bit of cake too).
                       You deserve to be celebrated in the best way, because you make the world better just by being in it.

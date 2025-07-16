@@ -120,7 +120,7 @@ const IndexPage = ({ onNavigate }) => {
           <div className={`transition-all duration-1000 ${showSecondMessage ? 'opacity-100' : 'opacity-0 absolute'}`}>
             <p className="text-xl font-semibold text-purple-700 flex items-center justify-center gap-2">
               <Heart className="w-6 h-6 text-pink-500" />
-              It's a special day for you...
+              hey, It's a special day for you...
               <Heart className="w-6 h-6 text-pink-500" />
             </p>
           </div>
